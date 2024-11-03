@@ -42,4 +42,10 @@ The neural network architecture is as follows:
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/your-username/handwritten-digit-recognition](https://github.com/AdityaGupta832342/handwritten-digit-recognition)
+   git clone [https://github.com/AdityaGupta832342/handwritten-digit-recognition](https://github.com/AdityaGupta832342/handwritten-digit-recognition)
+   ```
+2. **Install the requirements:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. **Run the Jupyter Notebook!**
